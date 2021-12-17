@@ -1,0 +1,156 @@
+    1  sudo apt update
+    2  sudo apt full-upgrade
+    3  sudo apt install texmaker
+    4  sudo apt install jupyter-notebook
+    5  sudo apt install sagemath
+    6  sudo apt install spyder
+    7  sudo apt install zoom
+    8  sudo apt install Zoom
+    9  sudo apt install R
+   10  sudo apt install jupyter-notebook
+   11  sudo apt update
+   12  sudo apt -y upgrade
+   13  sudo apt -y install r-base
+   14  wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.3.1093-amd64.deb
+   15  sudo apt install ./rstudio-1.3.1093-amd64.deb
+   16  sudo snap install zoom-client
+   17  zoom-client
+   18  ls
+   19  sudo apt install ./rstudio-1.3.1093-amd64.deb 
+   20  sudo apt install geogebra
+   21  sudo apte-get install ubuntu-restricted-extras
+   22  sudo apt-get install ubuntu-restricted-extras
+   23  sudo apt-get install ubuntu-restricted-extras
+   24  sudo apt install ubuntu-restricted-extras
+   25  sudo apt-get install ubuntu-restricted-extras
+   26  jupyter
+   27  jupyter -notebook
+   28  echo my name is diouf
+   29  cd shell
+   30  git clone
+   31  ls
+   32  git clone https://github.com/gabayae/friendly-shell-lesson.git shell-lesson
+   33  ls
+   34  cd shell lesson
+   35  shell-lesson
+   36  cd shell-lesson
+   37  ls
+   38  pwd
+   39  whoami
+   40  mkdir
+   41  mkdir r studio
+   42  cd..
+   43  cd . .
+   44  cd ..
+   45  mkdir my music
+   46  rmdir my music
+   47  touch
+   48  touch music
+   49  man
+   50  man man
+   51  gedit fille
+   52  nano fille
+   53  cat fille
+   54  mkdirfolder1
+   55  ls
+   56  cp fillefolder1/
+   57  mkdir folder1
+   58  ls
+   59  cp fille folder1/
+   60  cd ..
+   61  mkdir test2
+   62  cd
+   63  mkdir text2 .txt
+   64  mv text2 .txt folder1/
+   65  cd
+   66  mkdir simplestat
+   67  cd simplestat
+   68  ls
+   69  git init
+   70  ls
+   71  ls -a
+   72  cd .git/
+   73  ls
+   74  gedit description
+   75  cd ..
+   76  touch README .md
+   77  git status
+   78  git add READ.md
+   79  git add README . md
+   80  git add README.md
+   81  touch README.md
+   82  git status
+   83  git add README.md
+   84  gdit README.md
+   85  gedit README.md
+   86  git add README.md 
+   87  git status
+   88  git log
+   89  git commit -m "first commit"
+   90  git config --global user.name"Gaby-94
+   91  git config --global user.name"Gaby-94"
+   92  git config --global user.name"Gaby-94"
+   93  git config --global user.email"gabriel.diouf@aims-senegal.org"
+   94  git branch
+   95  git log
+   96  git branch experimental
+   97  git log
+   98  git commit -m "first commit"
+   99  git config --global user.email "gabriel.diouf@aims-senegal.org"
+  100  git config --global user.name "Gaby-94"
+  101  git commit -m "first commit"
+  102  git log
+  103  git branch
+  104  git branch -d experimental
+  105  git branch -d exprimental
+  106  git branch add_stat
+  107  git branch
+  108  git checkout add_stat
+  109  git branch
+  110  mkdir unix
+  111  touch foo.txt
+  112  mkdir unix
+  113  jupyter-notebook
+  114  rmdir unix
+  115  rm foo.txt
+  116  mkdir unix
+  117  ls
+  118  touch foo.txt
+  119  ls
+  120  cp foo.txt unix/
+  121  ls
+  122  gedit foo-copy.txt
+  123  cp foo.txt
+  124  cp foo.txt foo-copy.txt
+  125  mv foo-copy.txt foo2.txt
+  126  ls
+  127  history>>foo2.txt
+  128  ls
+  129  sudo get apt install vlc
+  130  sudo apt-get install vlc
+  131  sudo dpkg --configure -a vlc
+  132  sudo apt-get update
+  133  sudo apt-get install vlc
+  134  azerty
+  135  sudo apt-get install vlc
+  136  sudo apt-get dpkg --fix
+  137  sudo apt-get install vlcexit
+  138  exit
+  139  jupyter-notebouk
+  140  jupyter-notebook
+  141  mkdir unix
+  142  cd 
+  143  ls
+  144  mkdir unix
+  145  cd unix
+  146  touch foo.txt
+  147  co foo.txt foo-copy.txt
+  148  cp foo.txt foo-copy.txt
+  149  mv foo-copy.txt foo2.txt
+  150  mkdir data
+  151  mkdir new
+  152  mv data/foo2.txt foo-old.txt
+  153  rm foo-old.txt
+  154  rmdir new
+  155  cd
+  156  history >> exo1.txt
